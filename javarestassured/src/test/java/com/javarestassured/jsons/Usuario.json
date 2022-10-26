@@ -1,0 +1,6 @@
+{
+  "nome": "$nome",
+  "email": "$email",
+  "password": "$password",
+  "administrador": "$administrador"
+}
